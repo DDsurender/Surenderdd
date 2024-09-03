@@ -6,24 +6,22 @@ development in long term.
 
 ## Technical Skills:
 
-  ➢ Programming Languages: Advance Java, SQL.
+  ➢ Programming Languages: Advance Java, Core Java, SQL.
   
   ➢ Web Technologies: HTML, CSS.
   
   ➢ Software Testing: Manual Testing.
   
-  ➢ Tools & Platforms: Eclipse, MySQL, Oracle SQL, GIT, MS-Excel.
+  ➢ Tools & Platforms: Eclipse, MySQL, Oracle SQL, GIT, GITHUB, MS-Excel.
 
 ## Soft Skills:
   ➢ Effective Communication in English, Tamil, and Telugu.
-  
+
   ➢ Collaborative team player, fostering productivity.
 
   ➢ Strong problem-solving and critical thinking abilities.
   
   ➢ Quick adaptability to new technologies.
-  
-  ➢ Creative in developing unique solutions.
 
 ## Project:
 
